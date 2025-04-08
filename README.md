@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-<!--
-**MarlenaMartins1533/MarlenaMartins1533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I'm Marlena Martins, Software Engin a developer. 
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
+## Repositories stats:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlenaMartins1533&show_icons=true&theme=radical" />
+ 
+
+
+Feel free to explore and re-use any of my projects :wink:
+
+> I do some weird things too, for example, a file for custom my Windows Terminal :smirk:
+> I hope that you don't judge me because it hehe
+
+If you want to know more about me:
+<a href="https://www.linkedin.com/in/marlenamartins/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Thank you for visiting :)
