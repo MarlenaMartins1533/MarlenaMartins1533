@@ -16,6 +16,7 @@
 Feel free to explore my projects :wink:
 
 If you want to know more about me:
+
 <a href="https://www.linkedin.com/in/marlenamartins/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Thank you for visiting :)
